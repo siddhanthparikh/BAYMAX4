@@ -1,0 +1,4 @@
+#Tue Apr 03 20:16:16 IST 2018
+base.0=/Users/bhumikapardeshi/Desktop/Baymax-master/app/build/intermediates/transforms/dexMerger/debug/29
+path.0=classes.dex
+renamed.0=classes.dex

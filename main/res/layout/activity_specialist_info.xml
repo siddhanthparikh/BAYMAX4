@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DiseaseInfoActivity"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/sName"
+        android:layout_width="match_parent"
+        android:layout_height="111dp"
+        android:textSize="32sp"
+        android:layout_gravity="end"
+        android:paddingBottom="8dp"
+
+android:textAlignment="viewEnd" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Specialist:"
+        android:textSize="20sp"
+        android:textAllCaps="true" />
+
+    <TextView
+        android:id="@+id/sKind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="8dp"
+        android:textSize="16sp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location"
+        android:textSize="20sp"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/sLoc"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:paddingBottom="8dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="Email ID"
+        android:textAllCaps="true"/>
+
+    <TextView
+        android:id="@+id/sEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"/>
+
+
+
+</LinearLayout>

@@ -1,0 +1,642 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:2:1-86:12
+MERGED from [com.android.support:design:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/32882c5976f7c86104c0ef825a7ac4a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9d3bb3e6ca396dffee7c5dda61b531d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/cded1d283f30bfbca16926fb3c0a1e35/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2f0cc5f462657aeeb1b0be86ee4ea631/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/654c98b49fe15401234c012b2cd5a5f3/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/3c175c267d7d189f2270057ef4cadb87/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/cdd63d9de82034303080ff75b5b34476/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/3ea2ee3f87dbfc0d8fd9fe6c3887caff/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/e4ffe4ce35843774b17614ca80cf93b2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:17:1-29:12
+MERGED from [com.android.support:customtabs:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f906925b340601846dc368903d4cf9e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:17:1-30:12
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/33d33decc505bab3b054b7fbd4b5193d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10a0596d2dbe4829b0fe82fec407fb9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/248cb3fc501bb679bcf63292e2c60bb3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/431fd1a163f8b155b03b40163ebe8f2e/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/06d9d286ddb11972ff52e89540fa4d37/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0452e1384a8d91f5bd8758d4f6dd1443/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0c09873df290e2a18e4aebff3a5fc6ea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/826b227b3603abfb88829a1cfd84c6ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0b774c088d23d925baff69a4a72a492f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/69ffe1bd43050cecbaa927d4897785c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6ab58d937067837a855947468711d322/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cdde76e466047c241f2fd3907d887c9e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ed7dc0d5523bbe9241877b03f10d6948/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f008df2286fcfeba57daa9cd1701f0ff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/95d5ba6cb7f21ad3f9ecb6527fe9c8ff/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b7e4b4040a3d6de6d237f1dac9e0a9a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8228347098ebd84fefbd3e4f877daed6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/2bfd43916d29d8879c2f7dfe9105fc61/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/25cb8ba7c16e624cecee00a9ea20cb05/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/0d65aee482839d01f8c156d7c9ff2542/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/f830a85020c96960488c4a138ddfe8d4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/72fee91cb5031b5b69bd22f9422ebaa7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/e4016c43800e4ac21e4407d1c27f4f54/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/cba2c69aa0d392bf6e6e2c97cf1cd2f7/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/da95e8c9781299b8f4a2dbb5b67df7cf/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/a69a4b66957000c4282a38e92453e1e4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/851786ee83b260819ed97b4285d5a5db/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/af76403a96282892233f84e4f6e6fe59/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/6b1231ffa9f8ef71fe090c04b54804b7/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:5:5-55:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:15:5-84:19
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:15:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/cded1d283f30bfbca16926fb3c0a1e35/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/cded1d283f30bfbca16926fb3c0a1e35/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/654c98b49fe15401234c012b2cd5a5f3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/654c98b49fe15401234c012b2cd5a5f3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:22:5-27:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:22:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:22:5-28:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/06d9d286ddb11972ff52e89540fa4d37/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/06d9d286ddb11972ff52e89540fa4d37/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/2bfd43916d29d8879c2f7dfe9105fc61/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-license-12.0.0.aar/2bfd43916d29d8879c2f7dfe9105fc61/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/25cb8ba7c16e624cecee00a9ea20cb05/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-auth-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-12.0.0.aar/25cb8ba7c16e624cecee00a9ea20cb05/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/0d65aee482839d01f8c156d7c9ff2542/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.0.aar/0d65aee482839d01f8c156d7c9ff2542/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/f830a85020c96960488c4a138ddfe8d4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-12.0.0.aar/f830a85020c96960488c4a138ddfe8d4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/72fee91cb5031b5b69bd22f9422ebaa7/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-12.0.0.aar/72fee91cb5031b5b69bd22f9422ebaa7/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/e4016c43800e4ac21e4407d1c27f4f54/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.0.aar/e4016c43800e4ac21e4407d1c27f4f54/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/cba2c69aa0d392bf6e6e2c97cf1cd2f7/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-common-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-license-12.0.0.aar/cba2c69aa0d392bf6e6e2c97cf1cd2f7/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/da95e8c9781299b8f4a2dbb5b67df7cf/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.0.aar/da95e8c9781299b8f4a2dbb5b67df7cf/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/a69a4b66957000c4282a38e92453e1e4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-12.0.0.aar/a69a4b66957000c4282a38e92453e1e4/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/851786ee83b260819ed97b4285d5a5db/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.firebase:firebase-iid-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-12.0.0.aar/851786ee83b260819ed97b4285d5a5db/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/af76403a96282892233f84e4f6e6fe59/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-12.0.0.aar/af76403a96282892233f84e4f6e6fe59/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/6b1231ffa9f8ef71fe090c04b54804b7/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-12.0.0.aar/6b1231ffa9f8ef71fe090c04b54804b7/AndroidManifest.xml:5:5-6:19
+	android:supportsRtl
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:8:9-31
+	android:roundIcon
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.kavit.pelicula1.MainActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:14:13-35
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:13:13-41
+activity#com.example.kavit.pelicula1.rate
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:21:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:20:13-33
+activity#com.example.kavit.pelicula1.ProfileActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:25:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:24:13-44
+activity#com.example.kavit.pelicula1.MainActivity1
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:27:9-30:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:29:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:28:13-42
+activity#com.example.kavit.pelicula1.sort
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:31:9-34:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:33:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:34:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:32:13-33
+activity#com.example.kavit.pelicula1.about
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:37:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:36:13-34
+activity#com.example.kavit.pelicula1.DiseasesActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:39:9-42:59
+	android:label
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:41:13-38
+	android:theme
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:42:13-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:40:13-45
+activity#com.example.kavit.pelicula1.DiseaseInfoActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:43:9-57
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:43:19-54
+activity#com.example.kavit.pelicula1.SpecialistActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:44:9-56
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:44:19-53
+activity#com.example.kavit.pelicula1.SpecialistInfoActivity
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:45:9-60
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:45:19-57
+activity#com.example.kavit.pelicula1.intro
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:46:9-53:20
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:46:19-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:51:27-74
+uses-sdk
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/32882c5976f7c86104c0ef825a7ac4a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/design-27.0.2.aar/32882c5976f7c86104c0ef825a7ac4a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9d3bb3e6ca396dffee7c5dda61b531d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/9d3bb3e6ca396dffee7c5dda61b531d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/cded1d283f30bfbca16926fb3c0a1e35/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta5] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta5.aar/cded1d283f30bfbca16926fb3c0a1e35/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2f0cc5f462657aeeb1b0be86ee4ea631/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/2f0cc5f462657aeeb1b0be86ee4ea631/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/654c98b49fe15401234c012b2cd5a5f3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-core-12.0.0.aar/654c98b49fe15401234c012b2cd5a5f3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/3c175c267d7d189f2270057ef4cadb87/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-12.0.0.aar/3c175c267d7d189f2270057ef4cadb87/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/cdd63d9de82034303080ff75b5b34476/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-firestore-12.0.0.aar/cdd63d9de82034303080ff75b5b34476/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/3ea2ee3f87dbfc0d8fd9fe6c3887caff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/3ea2ee3f87dbfc0d8fd9fe6c3887caff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/e4ffe4ce35843774b17614ca80cf93b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/e4ffe4ce35843774b17614ca80cf93b2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f906925b340601846dc368903d4cf9e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/f906925b340601846dc368903d4cf9e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/33d33decc505bab3b054b7fbd4b5193d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-1.1.0.aar/33d33decc505bab3b054b7fbd4b5193d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10a0596d2dbe4829b0fe82fec407fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/e10a0596d2dbe4829b0fe82fec407fb9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/248cb3fc501bb679bcf63292e2c60bb3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/248cb3fc501bb679bcf63292e2c60bb3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/431fd1a163f8b155b03b40163ebe8f2e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-12.0.0.aar/431fd1a163f8b155b03b40163ebe8f2e/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/06d9d286ddb11972ff52e89540fa4d37/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/06d9d286ddb11972ff52e89540fa4d37/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0452e1384a8d91f5bd8758d4f6dd1443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/0452e1384a8d91f5bd8758d4f6dd1443/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0c09873df290e2a18e4aebff3a5fc6ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.2.aar/0c09873df290e2a18e4aebff3a5fc6ea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/826b227b3603abfb88829a1cfd84c6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/transition-27.0.2.aar/826b227b3603abfb88829a1cfd84c6ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0b774c088d23d925baff69a4a72a492f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/0b774c088d23d925baff69a4a72a492f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/69ffe1bd43050cecbaa927d4897785c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/69ffe1bd43050cecbaa927d4897785c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6ab58d937067837a855947468711d322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/6ab58d937067837a855947468711d322/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cdde76e466047c241f2fd3907d887c9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/cdde76e466047c241f2fd3907d887c9e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ed7dc0d5523bbe9241877b03f10d6948/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/ed7dc0d5523bbe9241877b03f10d6948/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f008df2286fcfeba57daa9cd1701f0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/f008df2286fcfeba57daa9cd1701f0ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/95d5ba6cb7f21ad3f9ecb6527fe9c8ff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/95d5ba6cb7f21ad3f9ecb6527fe9c8ff/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b7e4b4040a3d6de6d237f1dac9e0a9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b7e4b4040a3d6de6d237f1dac9e0a9a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8228347098ebd84fefbd3e4f877daed6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8228347098ebd84fefbd3e4f877daed6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:13:22-64
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/e69c53f3f3337990d2c8e7bcfea01265/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:19:9-21:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:21:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:20:13-58
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:23:9-27:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:26:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:27:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:24:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:28:9-31:75
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:29:13-81
+activity#com.firebase.ui.auth.ui.email.EmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:32:9-36:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:35:13-56
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:36:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:33:13-71
+activity#com.firebase.ui.auth.ui.phone.PhoneActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:37:9-41:77
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:40:13-66
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:41:13-74
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:38:13-71
+activity#com.firebase.ui.auth.ui.idp.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:42:9-45:73
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:43:13-76
+activity#com.firebase.ui.auth.ui.email.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:46:9-50:58
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:49:13-75
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:50:13-55
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:47:13-83
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:51:9-54:65
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:54:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:52:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:55:9-59:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:58:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:59:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:57:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:56:13-57
+activity#com.firebase.ui.auth.ui.credentials.CredentialSaveActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:60:9-64:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:63:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:62:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:64:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:61:13-86
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:65:9-77:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:67:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:68:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:66:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:@string/facebook_login_protocol_scheme
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:69:13-76:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:70:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:72:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:72:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:73:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:73:27-75
+data
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:75:17-81
+	android:scheme
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:75:23-78
+provider#com.firebase.ui.auth.data.client.AuthUiInitProvider
+ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:79:9-83:38
+	android:authorities
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:81:13-70
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:82:13-37
+	android:initOrder
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:83:13-35
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:3.2.2] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-3.2.2.aar/869d6ba5c6566a493a24cfbd3f0785d5/AndroidManifest.xml:80:13-79
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-auth-12.0.0.aar/4b7224005c500c606a076145a84e82fd/AndroidManifest.xml:24:13-85
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/6bebdad6c3685dbc787baaa9053eb169/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/59aea5f5b68ac787e1a3b90a854f0f18/AndroidManifest.xml:24:13-79
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:25:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.1.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/extensions-1.1.0.aar/9218d3069ba840b90198c1b4beae276e/AndroidManifest.xml:24:13-83
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-12.0.0.aar/45e60d2df49b5c265e2d8a96d35b58f1/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-analytics-12.0.0.aar/86b876eec25706adf0fb91f6ca12a7a4/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:29:9-63
+permission#com.example.kavit.pelicula1.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:32:22-76
+uses-permission#com.example.kavit.pelicula1.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.kavit.pelicula1
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:42:27-58
+category#com.example.kavit.pelicula1
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-iid-12.0.0.aar/cfb3589cb0f173a59bf01a434fd503ff/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.0] /Users/bhumikapardeshi/.gradle/caches/transforms-1/files-1.1/firebase-common-12.0.0.aar/59508d37ed7e0d9b62bb7b0f7f77d0d2/AndroidManifest.xml:9:13-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12 reason: com.google.android.gms.license has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/bhumikapardeshi/Desktop/Baymax-master/app/src/main/AndroidManifest.xml:2:1-57:12 reason: com.google.android.gms.license requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Apr 01 00:10:02 IST 2018
+0.baseType=DIRECTORY
+0.base=/Users/bhumikapardeshi/Desktop/Baymax-master/app/build/intermediates/assets/debug
+0.path=crashlytics-build.properties
+0.set=ASSET
+count=1
